@@ -43,7 +43,7 @@ var layer_list = [
 		'z_index': -2,
 		'position': {x: 0, y: 0},
 		'blend': 'multiply',
-		'opacity': 1
+		'opacity': 0.5
 	},
 	{
 		'image': floaties_1,
@@ -67,7 +67,7 @@ var layer_list = [
 		'z_index': 0,
 		'position': {x: 0, y: 0},
 		'blend': null,
-		'opacity': 0.75
+		'opacity': 1
 	},
 	{
 		'image': mask,
